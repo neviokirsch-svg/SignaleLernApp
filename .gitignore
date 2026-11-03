@@ -1,0 +1,7 @@
+web/dist/
+SignaleLernApp/Resources/index.html
+build/
+node_modules/
+.DS_Store
+*.xcuserstate
+xcuserdata/
